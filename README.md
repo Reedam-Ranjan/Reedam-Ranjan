@@ -1,4 +1,10 @@
-<a href="#"><img width="50%" height="" src="https://sdk.bitmoji.com/render/panel/5cdb5977-b8b9-4261-9f98-deef7c1bedee-92af2c5b-a18e-4773-b367-9dd96c055865-v1.png?transparent=1&palette=1" height="175px"/></a>
+
+<p align = "center">
+  <img  src="reedam.gif" alt="Hi! I am Reedam Ranjan, Software developer from India">
+</p>
+
+
+<!-- <a href="#"><img width="50%" height="" src="https://sdk.bitmoji.com/render/panel/5cdb5977-b8b9-4261-9f98-deef7c1bedee-92af2c5b-a18e-4773-b367-9dd96c055865-v1.png?transparent=1&palette=1" height="175px"/></a> -->
 
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
