@@ -1,6 +1,7 @@
 
+
 <p align = "center">
-  <img  src="reedam.gif" alt="Hi! I am Reedam Ranjan, Software developer from India">
+  <img  height="50%" width="70%"src="dev.gif" alt="Hi! I am Reedam Ranjan, Software developer from India">
 </p>
 
 
