@@ -1,46 +1,86 @@
-<h1 align="center">Heya 👋, I'm Reedam Ranjan</h1>
-<h3 align="center">I'm a indie app developer based in India</h3>
+<div align="center" >
+ 
+ ![reedam ranjan D E V E L O P E R (1)](https://user-images.githubusercontent.com/58527347/147630076-b7afa853-c0b7-4b57-ad84-aa7ef3cfe09b.png) 
+ 
+ </br> </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reedam-ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="reedam-ranjan" /> </p>
+<h1 align="center">  
+ 
+ Heya! I am [Reedam](https://www.rowenac.tech/) 
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="35px"> 
+ 
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reedam-ranjan" alt="reedam-ranjan" /></a> </p>
+<h3 align="center">𝙰 𝚃𝚎𝚌𝚑-𝙵𝚊𝚗𝚊𝚝𝚒𝚌 𝚊𝚗𝚍 𝚊𝚗 𝙰𝚟𝚒𝚍 𝚛𝚎𝚊𝚍𝚎𝚛! 🚀</h3>
 
-<p align="left"> <a href="https://twitter.com/@ranjan_reedam" target="blank"><img src="https://img.shields.io/twitter/follow/@ranjan_reedam?logo=twitter&style=for-the-badge" alt="@ranjan_reedam" /></a> </p>
+<div align="center" >
+I am a indie Software Developer based in  India.<br>
+I like 📜 Open Source, ☁️ Cloud computing, 🚀 DevOps and 🆕 Innovation. <br>
+</div> 
+<br>
+<br>
 
-- 🔭 I’m currently working on **Something cool**
+<img src="https://komarev.com/ghpvc/?username=reedam-ranjan&label=Views&color=blue&style=plastic" alt="reedam-ranjan" /> ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) <a href="https://www.linkedin.com/in/reedam-ranjan/">
+  <img align="left" alt="Reedam's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://reedam-ranjan.vercel.app/">
+ <img align="left" alt="Reedam's Website" width="25px" src="https://i.pinimg.com/736x/83/91/c6/8391c6e854cc3258cdebe4574c16b8e1--logo-branding-branding-design.jpg" />
+</a>
+<a href="https://leetcode.com/Reedam_Ranjan/">
+  <img align="left" alt="Reedam's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 
-- 🌱 I’m currently learning **Nextjs**
 
-- 👯 I’m looking to collaborate on **fullstack projects**
+<img align="right" alt="GIF" src="https://lh3.googleusercontent.com/proxy/lLxFm0sw-EkL6y1hjq4OHBy41lp5jLL-AkL0e7IqQ3bZWc-tmUCjNEhsPIRUXUVz-Ms1w2OKd-CRi2TnmLTRWXU1WnSBdzTzACx8yQIMZOi0wZSdzUr9E51rVGO9nQSL=w1200-h630-p-k-no-nu" width="470" height="220" />
 
-- 🤝 I’m looking for help with **Open Source**
+- 🔭 I’m currently working on React and Nextjs.
+- 🌱 I’m currently learning more about Design patterns.
+- 👯 I’m looking to collaborate more on Open Source Projects.
+- 💬 Ask me about tech, books and philosophy
+- 📫 How to reach me: [reedam@mail](mailto:reedamranjan@gmail.com)
+- ⚡ Fun fact: .
+- 📁 [Resume](https://drive.google.com/file/d/1G6tadYb2BnGvU_No7kvQZZfz51yhHRDI/view?usp=drive_link)
 
-- 👨‍💻 All of my projects are available at [https://reedam-ranjan.vercel.app/](https://reedam-ranjan.vercel.app/)
+ </br>
+ <h2>Languages and Tools 🛠️</h2> 
+ </br>
+ <div>
+ 
 
-- 💬 Ask me about **javascript, react**
+ <img height="28" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-Python-FECC00?logo=python&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-Flutter-0175C2?logo=flutter&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-Go-00B964?logo=go&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-NextJs-000000?logo=next.js&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-GCP-B366F6?logo=googlecloud&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" />
+ <img height="28" src="https://img.shields.io/badge/-Firebase-FF7139?logo=firebase&logoColor=white&style=flat" />
 
-- 📫 How to reach me **reedamranjan@gmail.com**
+ 
+ </div>
+ 
+</br>
+</br>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G6tadYb2BnGvU_No7kvQZZfz51yhHRDI/view?usp=sharing](https://drive.google.com/file/d/1G6tadYb2BnGvU_No7kvQZZfz51yhHRDI/view?usp=sharing)
+ <h2>Github Status 📊</h2> 
 
-- ⚡ Fun fact **I am a cool writer!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/reedamranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/reedamranjan" height="30" width="40" /></a>
-<a href="https://twitter.com/@ranjan_reedam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ranjan_reedam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/reedam-ranjan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reedam-ranjan/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@reedam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@reedam" height="30" width="40" /></a>
-</p>
+<img  src="https://github-readme-stats.vercel.app/api?username=rupanshi-chawda&show_icons=true&hide_border=true&theme=dracula" width="45%" align="right" >
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rupanshi-chawda&theme=dracula" width="45%" >
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/reedamranjan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/reedamranjan" /></a></p><br><br>
+</br>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reedam-ranjan&show_icons=true&locale=en&layout=compact" alt="reedam-ranjan" /></p>
+#### May the Odds be ever in your Favour ❤️ 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reedam-ranjan&show_icons=true&locale=en" alt="reedam-ranjan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reedam-ranjan&" alt="reedam-ranjan" /></p>
+</div>
