@@ -1,6 +1,6 @@
 <div align="center" >
  
- ![reedam ranjan D E V E L O P E R (1)](https://user-images.githubusercontent.com/58527347/147630076-b7afa853-c0b7-4b57-ad84-aa7ef3cfe09b.png) 
+ ![reedam ranjan D E V E L O P E R (1)](https://linkedinbackground.com/download/1435/1435-Black-and-White-Jet.jpeg) 
  
  </br> </div>
 
@@ -74,9 +74,9 @@ I like 📜 Open Source, ☁️ Cloud computing, 🚀 DevOps and 🆕 Innovation
  <h2>Github Status 📊</h2> 
 
 
-<img  src="https://github-readme-stats.vercel.app/api?username=rupanshi-chawda&show_icons=true&hide_border=true&theme=dracula" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=reedam-ranjan&show_icons=true&hide_border=true&theme=dracula" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rupanshi-chawda&theme=dracula" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=reedam-ranjan&theme=dracula" width="45%" >
 
 </br>
 <div align="center">
